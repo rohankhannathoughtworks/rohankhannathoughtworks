@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rohankhannathoughtworks
 - 👀 I’m interested in data engineering and generating real world value with my work.
-- 🌱 I’m currently learning System Design and UML
 - 💞️ I’m looking to collaborate asynchronously on data engineering projects within the Thoughtworks ecosystem
 - 📫 You may reach me on rohan.khanna@thoughtworks.com
 
